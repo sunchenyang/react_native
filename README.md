@@ -6,8 +6,6 @@
 ###截图
 
 ![模拟器截图](http://img1.ph.126.net/L6pI7lPwIy0ZUnNWMFmqCw==/6631847319444866704.gif)
-
-![模拟器截图](http://img1.ph.126.net/pOXIpldjVdZWXeDfuhsCMA==/6632027639351812729.gif)  
-
-![模拟器截图](http://img0.ph.126.net/4mX1lsO0uowH8Paqap4KGg==/6631862712607651956.gif)  
+![模拟器截图](http://img1.ph.126.net/pOXIpldjVdZWXeDfuhsCMA==/6632027639351812729.gif)
+![模拟器截图](http://img0.ph.126.net/4mX1lsO0uowH8Paqap4KGg==/6631862712607651956.gif)
 
